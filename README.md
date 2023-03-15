@@ -1,6 +1,5 @@
 # 📜Curriculo-Diana Rosalém
-
-Esse repositório contém algumas informações sobre mim, espero que com elas possa conhecer me conhecer um pouquinho 🙂
+Hey, sou Diana Rosalém, criei esse repositório com algumas informações sobre mim, espero que com elas possa conhecer me conhecer um pouquinho melhor 🙂
 
 ## 💻Links
 
